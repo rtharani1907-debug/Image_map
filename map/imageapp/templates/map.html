@@ -1,0 +1,24 @@
+<html>
+    <head>
+        {% load static %}
+         <title>My Area</title>
+    </head>
+    <body bgcolor="beige">
+        <h1 align="center">
+            <font color="purple"><b>ORIKKAI</b></font>
+        </h1>
+        <h3 align="center">
+            <font color="dark blue"><b>THARANI RAMESHBABU(25018409)</b></font> 
+        </h3>
+        <center>
+           <img src="{% static 'area.png.png' %}" usemap="#Image_map" height="600px" width="1500px">
+           <map name="Image_map">
+           <area shape="rect" coords="506,74,678,80" title="Resort" href="resort.html" alt="Resort">
+           <area shape="rect" coords="206,54,373,60" title="School" href="school.html" alt="School">
+           <area shape="rect" coords="637,375,721,331" title="Farm" href="farms.html" alt="Farm">
+           <area shape="rect" coords="617,125,704,180" title="Weavers" href="weavers.html" alt="Weavers">
+           <area shape="rect" coords="637,500,704,531" title="Company" href="company.html" alt="Company">
+           </map>
+        </center>
+    </body>
+</html>
