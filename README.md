@@ -201,7 +201,7 @@ urlpatterns = [
 
 # OUTPUT
 ![alt text](<Screenshot (28).png>)
-![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (38).png>)
 ![alt text](<Screenshot (34).png>)
 ![alt text](<Screenshot (35).png>)
 ![alt text](<Screenshot (36).png>)
